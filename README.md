@@ -1,4 +1,4 @@
 # tecart-onlyoffice
 
 This piece of software connects the TecArt CRM with OnlyOffice.
-Just copy this files to the /lib/onlyoffice folder.
+Just copy these files to the /lib/onlyoffice folder.
